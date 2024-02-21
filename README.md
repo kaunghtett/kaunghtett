@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Min Kaung Htet👋
 
-<!--
-**kaunghtett/kaunghtett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a Full Stack Web Developer passionate about crafting digital marvels. Let's turn ideas into engaging online experiences together!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Greenovator ( Agri tech company ) 
+- 🌱 I’m currently learning DevOps and system design 
+- 💬 Ask me about NodeJs, ReactJs, Laravel, Vue Js 
+- 📫 How to reach me: minkaunghtet.tech@gmail.com , [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/min-kaung-htet-567920151/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-lightblue?logo=digitalocean)
+![AWS](https://img.shields.io/badge/AWS-yellow?logo=amazon-aws)
+
