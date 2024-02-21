@@ -2,9 +2,9 @@
 
 Hello, I'm a Full Stack Web Developer passionate about crafting digital marvels. Let's turn ideas into engaging online experiences together!
 
-- 🔭 I’m currently working on Greenovator ( Agri tech company ) 
+- 🔭 I’m currently working on **Greenovator ( Agri tech company )**
 - 🌱 I’m currently learning DevOps and system design 
-- 💬 Ask me about NodeJs, ReactJs, Laravel, Vue Js 
+- 💬 Ask me about **NodeJs**, **ReactJs**, **Laravel**, **Vue Js**
 - 📫 How to reach me: minkaunghtet.tech@gmail.com , [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/min-kaung-htet-567920151/)
 
 ## Tech Stack
